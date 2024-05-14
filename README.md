@@ -1,4 +1,4 @@
-# ProjectName (Trybe Project)
+# Traduzo (Trybe Project)
 
 A text translation tool between several languages, using Python with the Flask Framework, to create a Server Side application. In other words, the Back-end (via the controller) will directly provide the View layer to the user.
 
